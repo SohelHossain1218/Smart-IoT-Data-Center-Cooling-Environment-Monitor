@@ -110,6 +110,6 @@ After you create a bot with `@BotFather`, use these commands:
 6. **Test:** Send `/status` to your bot – you should receive sensor readings.
 
 ## Credits & License
-- Author: [Your Name]
+- Author: Sohel_Hossain
 - License: MIT  
 - Feel free to modify and improve.
