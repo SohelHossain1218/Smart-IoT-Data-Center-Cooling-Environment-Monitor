@@ -31,6 +31,9 @@
  Sensors: ENS160 + AHT21, MQ-2
  Display: OLED SSD1306 128x64
  Control: Dual AC Relay (Primary + Standby)
+ All project source files, including firmware code, schematic diagrams, and documentation, 
+ have been made openly accessible via the following GitHub repository:
+ link: https://github.com/SohelHossain1218/Smart-IoT-Data-Center-Cooling-Environment-Monitor
 *************************************************************/
 
 #include <ESP8266WiFi.h>
